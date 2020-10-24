@@ -1,13 +1,5 @@
 # unfacebooked-quest
 unfacebooked-quest
 
-## requested facebook/oculus domains so far:
-graph.oculus.com
-oculus.com
-scontent.oculuscdn.com
-edge-mqtt.facebook.com
-graph.facebook-hardware.com
-graph.facebook.com
-mqtt-mini.facebook.com
-time.facebook.com
-www.facebook.com
+<p><span style="text-decoration: underline;"><strong>requested facebook/oculus domains so far:</strong></span></p>
+<p>graph.oculus.com<br />oculus.com<br />scontent.oculuscdn.com<br />edge-mqtt.facebook.com<br />graph.facebook-hardware.com<br />graph.facebook.com<br />mqtt-mini.facebook.com<br />time.facebook.com<br />www.facebook.com</p>

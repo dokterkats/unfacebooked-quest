@@ -2,7 +2,7 @@
 unfacebooked-quest
 
 ## requested facebook/oculus domains so far:
-##graph.oculus.com
+graph.oculus.com
 oculus.com
 scontent.oculuscdn.com
 edge-mqtt.facebook.com

@@ -4,3 +4,8 @@
 ## regex:
 #### facebook
 (^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw)\.(com|net)$
+
+## Blocklist for facebook and oculus domains:
+https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
+#### Credits:
+https://www.github.developerdan.com

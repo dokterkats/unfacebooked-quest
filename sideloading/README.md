@@ -13,5 +13,6 @@
 <p>&nbsp;</p>
 <h2><a id="user-content-adb-android-platform-tools" class="anchor" href="https://github.com/dokterkats/unfacebooked-quest/tree/main/sideloading#adb-android-platform-tools" aria-hidden="true"></a>adb android platform tools</h2>
 <h3><a id="user-content-windows" class="anchor" href="https://github.com/dokterkats/unfacebooked-quest/tree/main/sideloading#windows" aria-hidden="true"></a>Windows:</h3>
-<p>step 1: download the android platform tools on&nbsp;<a href="https://developer.android.com/studio/releases/platform-tools" rel="nofollow">https://developer.android.com/studio/releases/platform-tools</a><br />step 2: open the cmd<br />step 3: cd to your platform tools folder. For example: C:\Users\user1\Downloads\platform-tools<br />step 4: enter adb devices, this will automaticly start daemon (if no devices show op</p>
+<p>step 1: download the android platform tools on&nbsp;<a href="https://developer.android.com/studio/releases/platform-tools" rel="nofollow">https://developer.android.com/studio/releases/platform-tools</a><br />step 2: open the cmd<br />step 3: cd to your platform tools folder. For example: C:\Users\user1\Downloads\platform-tools<br />step 4: enter adb devices, this will automaticly start daemon</p>
+<p>(if no devices show up try running the command again or check if theres an pop up in your headset asking to allow usb debugging, allow usb debugging)</p>
 <p>&nbsp;</p>
